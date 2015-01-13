@@ -34,6 +34,24 @@
       ga('create', 'UA-61168-1', 'auto');
       ga('send', 'pageview');
     </script>
+    <script type="text/javascript">
+    
+      var disqus_shortname = 'sistrall';
+    
+      (function () {
+          var s = document.createElement('script'); s.async = true;
+          s.type = 'text/javascript';
+          s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+          (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+      }());
+    
+      (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    
+    </script>
   </head>
   <body class='thoughts thoughts_2004 thoughts_2004_11 thoughts_2004_11_23 thoughts_2004_11_23_css-la-propriet-rotate thoughts_2004_11_23_css-la-propriet-rotate_index'>
     <header>
@@ -51,7 +69,10 @@
         <header>
           <div am-post--header=""><div am-post--type=""><p><a href="/thoughts">Post</a></p>
           </div>
-          <div am-post--meta=""><p>Pubblicato il <strong>23 novembre 2004</strong></p>
+          <div am-post--meta=""><p>
+            Pubblicato il <strong>23 novembre 2004</strong>
+            — <a href="#disqus_thread"></a>
+          </p>
           </div>
           <div am-post--title=""><h2>CSS: la propriet? rotate</h2>
           </div>
@@ -63,6 +84,12 @@
       <p>Nel vecchio design, le ultime fotografie venivano mostrate solo in home page. Nel design attuale, l?idea di proporre le stesse immagini su ogni pagina non mi piaceva. Cos?, tra tutte le possibilit?, ho scelto quella pi? estrema: le foto che compaiono sono scelte casualmente ogni volta che una pagina viene visualizzata.</p>
       <p>Volevo che questa idea di casualit? fosse trasmessa anche dal design: non solo le foto dovevano essere random, ma anche qualche altro elemento delle pagine. Cos? ho immaginato le fotografie appese ad una parete o appoggiate su un tavolo, come fossero Polaroid: le cornici delle immagini non sono perfettamente allineate e si sovrappongono parzialmente l?una all?altra, perch? leggermente ruotate e non perfettamente disposte.</p>
       <p>Con questa serie di ragionamenti ho affrontato il design di quella zona delle pagine e ho iniziato poi a pensare come tradurre in pratica l?idea utilizzando <span class="caps">HTML</span> e <span class="caps">CSS</span> client-side e <span class="caps">PHP</span> server-side.</p>
+      </div>
+      <div am-post--comments=""><div am-comments=""><div am-comments--header=""><h2>Cose ne pensi?</h2>
+      </div>
+      <div am-comments--thread=""><div id='disqus_thread'></div>
+      </div>
+      </div>
       </div>
       <div am-post--prev-next=""><div am-prev-next=""><div am-prev-next--prev=""><p><span am-prev-next--label>Prima</span> <a href="/thoughts/2004/11/15/tuning-come-volare-con-firefox/">Tuning: come volare con Firefox</a> <span am-prev-next--date>15 novembre 2004</span></p>
       </div>

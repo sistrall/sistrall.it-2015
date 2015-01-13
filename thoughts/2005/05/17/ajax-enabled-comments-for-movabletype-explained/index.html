@@ -34,6 +34,24 @@
       ga('create', 'UA-61168-1', 'auto');
       ga('send', 'pageview');
     </script>
+    <script type="text/javascript">
+    
+      var disqus_shortname = 'sistrall';
+    
+      (function () {
+          var s = document.createElement('script'); s.async = true;
+          s.type = 'text/javascript';
+          s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+          (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+      }());
+    
+      (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    
+    </script>
   </head>
   <body class='thoughts thoughts_2005 thoughts_2005_05 thoughts_2005_05_17 thoughts_2005_05_17_ajax-enabled-comments-for-movabletype-explained thoughts_2005_05_17_ajax-enabled-comments-for-movabletype-explained_index'>
     <header>
@@ -51,7 +69,10 @@
         <header>
           <div am-post--header=""><div am-post--type=""><p><a href="/thoughts">Post</a></p>
           </div>
-          <div am-post--meta=""><p>Pubblicato il <strong>17 maggio 2005</strong></p>
+          <div am-post--meta=""><p>
+            Pubblicato il <strong>17 maggio 2005</strong>
+            — <a href="#disqus_thread"></a>
+          </p>
           </div>
           <div am-post--title=""><h2>Ajax enabled comments for Movabletype explained</h2>
           </div>
@@ -84,6 +105,12 @@
       <p>If Javascript is not available for any reason, everything works just like Ajax doesn’t exists: the form is sent from the real browser, the <code>static</code> parameter takes the value 1 from an hidden field and MT redirects the user following the standard way.</p>
       <h4>Conclusions</h4>
       <p>That’s all: implementing Ajax enabled comments on MT isn’t difficult at all! The technique here explained is one of the simplest, but more can be done generating, for example, <code>response_page</code>s containing a real <span class="caps">XML</span> tree, using the content of different nodes to substitute more elements in the page.</p>
+      </div>
+      <div am-post--comments=""><div am-comments=""><div am-comments--header=""><h2>Cose ne pensi?</h2>
+      </div>
+      <div am-comments--thread=""><div id='disqus_thread'></div>
+      </div>
+      </div>
       </div>
       <div am-post--prev-next=""><div am-prev-next=""><div am-prev-next--prev=""><p><span am-prev-next--label>Prima</span> <a href="/thoughts/2005/05/13/opensource-freesoftware-e-la-crisi-it/">OpenSource, FreeSoftware e la crisi IT</a> <span am-prev-next--date>13 maggio 2005</span></p>
       </div>

@@ -34,6 +34,24 @@
       ga('create', 'UA-61168-1', 'auto');
       ga('send', 'pageview');
     </script>
+    <script type="text/javascript">
+    
+      var disqus_shortname = 'sistrall';
+    
+      (function () {
+          var s = document.createElement('script'); s.async = true;
+          s.type = 'text/javascript';
+          s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+          (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+      }());
+    
+      (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    
+    </script>
   </head>
   <body class='thoughts thoughts_2004 thoughts_2004_02 thoughts_2004_02_04 thoughts_2004_02_04_an-underscore-crash-internet-explorer-6 thoughts_2004_02_04_an-underscore-crash-internet-explorer-6_index'>
     <header>
@@ -51,7 +69,10 @@
         <header>
           <div am-post--header=""><div am-post--type=""><p><a href="/thoughts">Post</a></p>
           </div>
-          <div am-post--meta=""><p>Pubblicato il <strong> 4 febbraio 2004</strong></p>
+          <div am-post--meta=""><p>
+            Pubblicato il <strong> 4 febbraio 2004</strong>
+            — <a href="#disqus_thread"></a>
+          </p>
           </div>
           <div am-post--title=""><h2>An underscore crash Internet Explorer 6</h2>
           </div>
@@ -61,6 +82,12 @@
       <div am-post--content=""><p>Until some minutes ago my <a href="http://www.sistrall.it/about/">About</a> page contained an empty <code>div</code> with <code>id</code> attribute set to <code>left&lt;strong&gt;_&lt;/strong&gt;column</code>.</p>
       <p>It was useless – so now is gone – but <strong>the remarkable thing is that the underscore character crashed Internet Explorer 6</strong>.</p>
       <p>I don’t know anything about a bug of this type: many other elements of my sites have names containing “_”. How is it possible that a simple underscore crash IE? And why it has not happened before?</p>
+      </div>
+      <div am-post--comments=""><div am-comments=""><div am-comments--header=""><h2>Cose ne pensi?</h2>
+      </div>
+      <div am-comments--thread=""><div id='disqus_thread'></div>
+      </div>
+      </div>
       </div>
       <div am-post--prev-next=""><div am-prev-next=""><div am-prev-next--prev=""><p><span am-prev-next--label>Prima</span> <a href="/thoughts/2004/02/01/browsing-with-the-nokia-6600-due-siti-mainstream/">Browsing with the Nokia 6600: due siti mainstream</a> <span am-prev-next--date> 1 febbraio 2004</span></p>
       </div>
