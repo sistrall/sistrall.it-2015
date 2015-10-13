@@ -404,6 +404,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.sistrall.it/photographs/2015/10/13/into-the-beer</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.sistrall.it/photographs/2015/10/05/l-unico-modo-di-resistere</loc>
     <priority>0.7</priority>
   </url>
@@ -2261,6 +2265,10 @@
   </url>
   <url>
     <loc>http://www.sistrall.it/photographs/2015/10</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/photographs/2015/10/13</loc>
     <priority>0.7</priority>
   </url>
   <url>
