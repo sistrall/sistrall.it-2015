@@ -1,5 +1,9 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
   <url>
+    <loc>http://www.sistrall.it/thoughts/2016/04/06/smart-tv-v-s-smart-mamma</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.sistrall.it/thoughts/2012/07/27/keep-cooking</loc>
     <priority>0.7</priority>
   </url>
@@ -1160,6 +1164,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.sistrall.it/thoughts/tags/internet-per-mamma</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.sistrall.it/thoughts/tags/cucina</loc>
     <priority>0.7</priority>
   </url>
@@ -1405,6 +1413,18 @@
   </url>
   <url>
     <loc>http://www.sistrall.it/thoughts/tags/mysql</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/thoughts/2016</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/thoughts/2016/04</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/thoughts/2016/04/06</loc>
     <priority>0.7</priority>
   </url>
   <url>
