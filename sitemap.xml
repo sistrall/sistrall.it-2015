@@ -1,5 +1,9 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
   <url>
+    <loc>http://www.sistrall.it/thoughts/2016/04/16/se-questo-e-un-sito</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.sistrall.it/thoughts/2016/04/06/smart-tv-v-s-smart-mamma</loc>
     <priority>0.7</priority>
   </url>
@@ -1425,6 +1429,10 @@
   </url>
   <url>
     <loc>http://www.sistrall.it/thoughts/2016/04</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/thoughts/2016/04/16</loc>
     <priority>0.7</priority>
   </url>
   <url>
