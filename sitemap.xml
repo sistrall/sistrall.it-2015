@@ -416,6 +416,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.sistrall.it/photographs/2016/07/25/balle-aux-prisonniers</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.sistrall.it/photographs/2016/04/21/astratto-metro-partenopeo</loc>
     <priority>0.7</priority>
   </url>
@@ -2305,6 +2309,14 @@
   </url>
   <url>
     <loc>http://www.sistrall.it/photographs/2016</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/photographs/2016/07</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/photographs/2016/07/25</loc>
     <priority>0.7</priority>
   </url>
   <url>
