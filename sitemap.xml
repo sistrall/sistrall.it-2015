@@ -416,6 +416,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.sistrall.it/photographs/2016/10/24/parigi-d-autunno</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.sistrall.it/photographs/2016/07/25/balle-aux-prisonniers</loc>
     <priority>0.7</priority>
   </url>
@@ -2309,6 +2313,14 @@
   </url>
   <url>
     <loc>http://www.sistrall.it/photographs/2016</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/photographs/2016/10</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/photographs/2016/10/24</loc>
     <priority>0.7</priority>
   </url>
   <url>
