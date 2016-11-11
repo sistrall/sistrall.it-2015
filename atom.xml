@@ -5,16 +5,27 @@
   <id>http://www.sistrall.it/</id>
   <link href="http://www.sistrall.it/"/>
   <link href="http://www.sistrall.it/atom.xml" rel="self"/>
-  <updated>2016-11-01T17:44:08+00:00</updated>
+  <updated>2016-11-11T09:14:00+00:00</updated>
   <author>
     <name>Silvano Stralla</name>
   </author>
+  <entry>
+    <title>Leonard Cohen</title>
+    <link rel="alternate" href="http://www.sistrall.it/thoughts/2016/11/11/leonard-cohen/"/>
+    <id>http://www.sistrall.it/thoughts/2016/11/11/leonard-cohen/</id>
+    <published>2016-11-11T09:14:00+00:00</published>
+    <updated>2016-11-11T09:49:55+00:00</updated>
+    <author>
+      <name>Silvano Stralla</name>
+    </author>
+    <content type="html">&lt;p&gt;In vita mia mi sono innamorato musicalmente due volte. Certo, a dir la verità ho avuto un sacco di storie — due esempi, ma potrei farne tanti: vado in astinenza se non ascolto per troppo tempo &lt;em&gt;La Domenica delle Salme&lt;/em&gt;, comincio a sentirmi strano quando...&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Carta</title>
     <link rel="alternate" href="http://www.sistrall.it/photographs/2016/11/01/carta/"/>
     <id>http://www.sistrall.it/photographs/2016/11/01/carta/</id>
     <published>2016-11-01T17:44:08+00:00</published>
-    <updated>2016-11-10T19:32:55+00:00</updated>
+    <updated>2016-11-11T09:49:55+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -27,7 +38,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2016/10/24/toolbox-office-starfield/"/>
     <id>http://www.sistrall.it/photographs/2016/10/24/toolbox-office-starfield/</id>
     <published>2016-10-24T22:20:54+00:00</published>
-    <updated>2016-11-10T19:32:55+00:00</updated>
+    <updated>2016-11-11T09:49:55+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -39,7 +50,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2016/10/24/parigi-d-autunno/"/>
     <id>http://www.sistrall.it/photographs/2016/10/24/parigi-d-autunno/</id>
     <published>2016-10-24T21:00:00+00:00</published>
-    <updated>2016-11-10T19:32:55+00:00</updated>
+    <updated>2016-11-11T09:49:55+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -51,7 +62,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2016/07/25/balle-aux-prisonniers/"/>
     <id>http://www.sistrall.it/photographs/2016/07/25/balle-aux-prisonniers/</id>
     <published>2016-07-25T17:17:00+00:00</published>
-    <updated>2016-11-10T19:32:55+00:00</updated>
+    <updated>2016-11-11T09:49:55+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -64,7 +75,7 @@
     <link rel="alternate" href="http://www.sistrall.it/thoughts/2016/04/27/a-ognuno-il-suo-indirizzo/"/>
     <id>http://www.sistrall.it/thoughts/2016/04/27/a-ognuno-il-suo-indirizzo/</id>
     <published>2016-04-27T10:45:00+00:00</published>
-    <updated>2016-11-10T19:32:55+00:00</updated>
+    <updated>2016-11-11T09:49:55+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -77,7 +88,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2016/04/21/astratto-metro-partenopeo/"/>
     <id>http://www.sistrall.it/photographs/2016/04/21/astratto-metro-partenopeo/</id>
     <published>2016-04-21T20:59:00+00:00</published>
-    <updated>2016-11-10T19:32:55+00:00</updated>
+    <updated>2016-11-11T09:49:55+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -90,7 +101,7 @@
     <link rel="alternate" href="http://www.sistrall.it/thoughts/2016/04/16/se-questo-e-un-sito/"/>
     <id>http://www.sistrall.it/thoughts/2016/04/16/se-questo-e-un-sito/</id>
     <published>2016-04-16T22:10:00+00:00</published>
-    <updated>2016-11-10T19:32:55+00:00</updated>
+    <updated>2016-11-11T09:49:55+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -103,7 +114,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2016/04/11/ogni-tanto-mi-fotografo-i-piedi/"/>
     <id>http://www.sistrall.it/photographs/2016/04/11/ogni-tanto-mi-fotografo-i-piedi/</id>
     <published>2016-04-11T18:47:00+00:00</published>
-    <updated>2016-11-10T19:32:55+00:00</updated>
+    <updated>2016-11-11T09:49:55+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -119,7 +130,7 @@ per ricordarmi che ho camminato...&lt;/p&gt;</content>
     <link rel="alternate" href="http://www.sistrall.it/thoughts/2016/04/06/smart-tv-v-s-smart-mamma/"/>
     <id>http://www.sistrall.it/thoughts/2016/04/06/smart-tv-v-s-smart-mamma/</id>
     <published>2016-04-06T14:00:00+00:00</published>
-    <updated>2016-11-10T19:32:55+00:00</updated>
+    <updated>2016-11-11T09:49:55+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -132,27 +143,12 @@ per ricordarmi che ho camminato...&lt;/p&gt;</content>
     <link rel="alternate" href="http://www.sistrall.it/photographs/2015/10/13/into-the-beer/"/>
     <id>http://www.sistrall.it/photographs/2015/10/13/into-the-beer/</id>
     <published>2015-10-13T20:58:00+00:00</published>
-    <updated>2016-11-10T19:32:55+00:00</updated>
+    <updated>2016-11-11T09:49:55+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
     <content type="html">&lt;p&gt;&lt;img alt="" src="http://www.sistrall.it/photographs/2015/10/13/into-the-beer/square-thumb.jpg" /&gt;&lt;/p&gt;&lt;p&gt;Scatttata con l'obiettivo della MX-1 staccato e tenuto "rovesciato" sul bocchettone. Le macro che si fanno così hanno dell'incredibile, ma la messa a fuoco è difficile, la profondità di campo prossima allo zero e il mosso è dietro l'angolo.&lt;/p&gt;
 
 &lt;p&gt;Più una...&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>L'unico modo di resistere</title>
-    <link rel="alternate" href="http://www.sistrall.it/photographs/2015/10/05/l-unico-modo-di-resistere/"/>
-    <id>http://www.sistrall.it/photographs/2015/10/05/l-unico-modo-di-resistere/</id>
-    <published>2015-10-05T20:47:00+00:00</published>
-    <updated>2016-11-10T19:32:55+00:00</updated>
-    <author>
-      <name>Silvano Stralla</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img alt="" src="http://www.sistrall.it/photographs/2015/10/05/l-unico-modo-di-resistere/square-thumb.jpg" /&gt;&lt;/p&gt;&lt;p&gt;E, sempre dallo stesso libro di Tiziano Terzani, cito:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Vivekananda, il grande mistico indiano, viaggiava alla fine dell'Ottocento negli Stati Uniti per far conoscere l'induismo. A San Francisco, alla fine di una sua conferenza, una signora americana...&lt;/p&gt;
-&lt;/blockquote&gt;</content>
   </entry>
 </feed>
