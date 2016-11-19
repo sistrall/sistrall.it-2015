@@ -420,6 +420,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.sistrall.it/photographs/2016/11/19/a-parigi-mentre-si-fa-sera</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.sistrall.it/photographs/2016/11/01/carta</loc>
     <priority>0.7</priority>
   </url>
@@ -2341,6 +2345,10 @@
   </url>
   <url>
     <loc>http://www.sistrall.it/photographs/2016/11</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/photographs/2016/11/19</loc>
     <priority>0.7</priority>
   </url>
   <url>
