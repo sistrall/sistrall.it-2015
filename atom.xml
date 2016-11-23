@@ -5,16 +5,28 @@
   <id>http://www.sistrall.it/</id>
   <link href="http://www.sistrall.it/"/>
   <link href="http://www.sistrall.it/atom.xml" rel="self"/>
-  <updated>2016-11-22T11:13:34+00:00</updated>
+  <updated>2016-11-23T14:49:00+00:00</updated>
   <author>
     <name>Silvano Stralla</name>
   </author>
+  <entry>
+    <title>Da Emilia I</title>
+    <link rel="alternate" href="http://www.sistrall.it/photographs/2016/11/23/da-emilia-i/"/>
+    <id>http://www.sistrall.it/photographs/2016/11/23/da-emilia-i/</id>
+    <published>2016-11-23T14:49:00+00:00</published>
+    <updated>2016-11-23T14:49:02+00:00</updated>
+    <author>
+      <name>Silvano Stralla</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img alt="" src="http://www.sistrall.it/photographs/2016/11/23/da-emilia-i/square-thumb.jpg" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Parigi, verso la metro</title>
     <link rel="alternate" href="http://www.sistrall.it/photographs/2016/11/22/parigi-verso-la-metro/"/>
     <id>http://www.sistrall.it/photographs/2016/11/22/parigi-verso-la-metro/</id>
     <published>2016-11-22T11:13:34+00:00</published>
-    <updated>2016-11-22T11:15:08+00:00</updated>
+    <updated>2016-11-23T14:47:16+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -26,7 +38,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2016/11/21/biscotteria/"/>
     <id>http://www.sistrall.it/photographs/2016/11/21/biscotteria/</id>
     <published>2016-11-21T11:33:35+00:00</published>
-    <updated>2016-11-22T11:15:08+00:00</updated>
+    <updated>2016-11-23T14:47:16+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -40,7 +52,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2016/11/20/san-salvario-torino/"/>
     <id>http://www.sistrall.it/photographs/2016/11/20/san-salvario-torino/</id>
     <published>2016-11-20T17:02:42+00:00</published>
-    <updated>2016-11-22T11:15:08+00:00</updated>
+    <updated>2016-11-23T14:47:16+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -52,7 +64,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2016/11/19/a-parigi-mentre-si-fa-sera/"/>
     <id>http://www.sistrall.it/photographs/2016/11/19/a-parigi-mentre-si-fa-sera/</id>
     <published>2016-11-19T18:37:04+00:00</published>
-    <updated>2016-11-22T11:15:08+00:00</updated>
+    <updated>2016-11-23T14:47:16+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -64,7 +76,7 @@
     <link rel="alternate" href="http://www.sistrall.it/thoughts/2016/11/11/leonard-cohen/"/>
     <id>http://www.sistrall.it/thoughts/2016/11/11/leonard-cohen/</id>
     <published>2016-11-11T09:14:00+00:00</published>
-    <updated>2016-11-22T11:15:08+00:00</updated>
+    <updated>2016-11-23T14:47:16+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -75,7 +87,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2016/11/01/carta/"/>
     <id>http://www.sistrall.it/photographs/2016/11/01/carta/</id>
     <published>2016-11-01T17:44:08+00:00</published>
-    <updated>2016-11-22T11:15:08+00:00</updated>
+    <updated>2016-11-23T14:47:16+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -88,7 +100,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2016/10/24/toolbox-office-starfield/"/>
     <id>http://www.sistrall.it/photographs/2016/10/24/toolbox-office-starfield/</id>
     <published>2016-10-24T22:20:54+00:00</published>
-    <updated>2016-11-22T11:15:08+00:00</updated>
+    <updated>2016-11-23T14:47:16+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -100,7 +112,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2016/10/24/parigi-d-autunno/"/>
     <id>http://www.sistrall.it/photographs/2016/10/24/parigi-d-autunno/</id>
     <published>2016-10-24T21:00:00+00:00</published>
-    <updated>2016-11-22T11:15:08+00:00</updated>
+    <updated>2016-11-23T14:47:16+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -112,7 +124,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2016/07/25/balle-aux-prisonniers/"/>
     <id>http://www.sistrall.it/photographs/2016/07/25/balle-aux-prisonniers/</id>
     <published>2016-07-25T17:17:00+00:00</published>
-    <updated>2016-11-22T11:15:08+00:00</updated>
+    <updated>2016-11-23T14:47:16+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -125,25 +137,12 @@
     <link rel="alternate" href="http://www.sistrall.it/thoughts/2016/04/27/a-ognuno-il-suo-indirizzo/"/>
     <id>http://www.sistrall.it/thoughts/2016/04/27/a-ognuno-il-suo-indirizzo/</id>
     <published>2016-04-27T10:45:00+00:00</published>
-    <updated>2016-11-22T11:15:08+00:00</updated>
+    <updated>2016-11-23T14:47:16+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
     <content type="html">&lt;p&gt;Eravamo rimasti ai link: le parole che, se ci clicchi sopra oppure le tocchi, ti portano da un’altra parte.&lt;/p&gt;
 
 &lt;p&gt;Fai un esercizio: prova a scorrere questa pagina da cima a fondo e contali. Fa’ attenzione che non tutti i link sono sottolineati. Ci sono...&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Astratto metro partenopeo</title>
-    <link rel="alternate" href="http://www.sistrall.it/photographs/2016/04/21/astratto-metro-partenopeo/"/>
-    <id>http://www.sistrall.it/photographs/2016/04/21/astratto-metro-partenopeo/</id>
-    <published>2016-04-21T20:59:00+00:00</published>
-    <updated>2016-11-22T11:15:08+00:00</updated>
-    <author>
-      <name>Silvano Stralla</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img alt="" src="http://www.sistrall.it/photographs/2016/04/21/astratto-metro-partenopeo/square-thumb.jpg" /&gt;&lt;/p&gt;&lt;p&gt;Dettaglio di una stazione che arriva in ritardo, dopo anni, ma arriva fin sotto il mare e, addirittura, arriva fino al treno.&lt;/p&gt;
-
-&lt;p&gt;Dettagli fitti, compositi, sezioni che neanche si vedono (se sono sotto il mare), ma—davvero—ci si affonda. Prendetevi un...&lt;/p&gt;</content>
   </entry>
 </feed>
