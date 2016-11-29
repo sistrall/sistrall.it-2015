@@ -420,6 +420,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.sistrall.it/photographs/2016/11/29/foglia-texture</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.sistrall.it/photographs/2016/11/27/fiumicino-astratto-rosso</loc>
     <priority>0.7</priority>
   </url>
@@ -2373,6 +2377,10 @@
   </url>
   <url>
     <loc>http://www.sistrall.it/photographs/2016/11</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/photographs/2016/11/29</loc>
     <priority>0.7</priority>
   </url>
   <url>
