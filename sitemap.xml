@@ -420,6 +420,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.sistrall.it/photographs/2016/12/01/giallo-neanche-tanto-astratto</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.sistrall.it/photographs/2016/11/30/certe-lune-a-torino</loc>
     <priority>0.7</priority>
   </url>
@@ -2377,6 +2381,14 @@
   </url>
   <url>
     <loc>http://www.sistrall.it/photographs/2016</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/photographs/2016/12</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/photographs/2016/12/01</loc>
     <priority>0.7</priority>
   </url>
   <url>
