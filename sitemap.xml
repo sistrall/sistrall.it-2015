@@ -420,6 +420,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.sistrall.it/photographs/2016/12/03/nella-tua-mano</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.sistrall.it/photographs/2016/12/01/giallo-neanche-tanto-astratto</loc>
     <priority>0.7</priority>
   </url>
@@ -2385,6 +2389,10 @@
   </url>
   <url>
     <loc>http://www.sistrall.it/photographs/2016/12</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/photographs/2016/12/03</loc>
     <priority>0.7</priority>
   </url>
   <url>
