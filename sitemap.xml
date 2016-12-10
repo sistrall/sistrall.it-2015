@@ -420,6 +420,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.sistrall.it/photographs/2016/12/10/certe-sere-il-cielo-di-fronte</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.sistrall.it/photographs/2016/12/08/cose-da-farci-attenzione</loc>
     <priority>0.7</priority>
   </url>
@@ -2401,6 +2405,10 @@
   </url>
   <url>
     <loc>http://www.sistrall.it/photographs/2016/12</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/photographs/2016/12/10</loc>
     <priority>0.7</priority>
   </url>
   <url>
