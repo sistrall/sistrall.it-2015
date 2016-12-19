@@ -420,6 +420,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.sistrall.it/photographs/2016/12/19/montagne-dove-non-te-le-aspetti</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.sistrall.it/photographs/2016/12/15/chambery-cattedrale</loc>
     <priority>0.7</priority>
   </url>
@@ -2409,6 +2413,10 @@
   </url>
   <url>
     <loc>http://www.sistrall.it/photographs/2016/12</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/photographs/2016/12/19</loc>
     <priority>0.7</priority>
   </url>
   <url>
