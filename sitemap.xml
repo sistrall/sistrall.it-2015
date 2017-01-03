@@ -420,6 +420,10 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.sistrall.it/photographs/2017/01/03/un-mondo-piccolo</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.sistrall.it/photographs/2016/12/19/montagne-dove-non-te-le-aspetti</loc>
     <priority>0.7</priority>
   </url>
@@ -2405,6 +2409,18 @@
   </url>
   <url>
     <loc>http://www.sistrall.it/photographs/tags/event</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/photographs/2017</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/photographs/2017/01</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/photographs/2017/01/03</loc>
     <priority>0.7</priority>
   </url>
   <url>
