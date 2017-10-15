@@ -1,5 +1,9 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
   <url>
+    <loc>http://www.sistrall.it/thoughts/2017/10/15/racconto</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.sistrall.it/thoughts/2016/11/11/leonard-cohen</loc>
     <priority>0.7</priority>
   </url>
@@ -1288,6 +1292,14 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>http://www.sistrall.it/thoughts/tags/me</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/thoughts/tags/writing</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>http://www.sistrall.it/thoughts/tags/music</loc>
     <priority>0.7</priority>
   </url>
@@ -1541,6 +1553,18 @@
   </url>
   <url>
     <loc>http://www.sistrall.it/thoughts/tags/mysql</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/thoughts/2017</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/thoughts/2017/10</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://www.sistrall.it/thoughts/2017/10/15</loc>
     <priority>0.7</priority>
   </url>
   <url>
