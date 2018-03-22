@@ -408,6 +408,10 @@
 <priority>0.7</priority>
 </url>
 <url>
+<loc>http://www.sistrall.it/photographs/2018/03/22/da-brooklyn</loc>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>http://www.sistrall.it/photographs/2018/03/21/get-your-12oz-here-milano-da-qualche-parte</loc>
 <priority>0.7</priority>
 </url>
@@ -1325,6 +1329,10 @@
 </url>
 <url>
 <loc>http://www.sistrall.it/photographs</loc>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://www.sistrall.it/palette</loc>
 <priority>0.7</priority>
 </url>
 <url>
