@@ -5,16 +5,30 @@
   <id>http://www.sistrall.it/</id>
   <link href="http://www.sistrall.it/"/>
   <link href="http://www.sistrall.it/atom.xml" rel="self"/>
-  <updated>2018-06-28T18:40:24+00:00</updated>
+  <updated>2018-07-02T09:35:36+00:00</updated>
   <author>
     <name>Silvano Stralla</name>
   </author>
+  <entry>
+    <title>Mentre ci svegliamo</title>
+    <link rel="alternate" href="http://www.sistrall.it/photographs/2018/07/02/mentre-ci-svegliamo/"/>
+    <id>http://www.sistrall.it/photographs/2018/07/02/mentre-ci-svegliamo/</id>
+    <published>2018-07-02T09:35:36+00:00</published>
+    <updated>2018-07-02T09:36:08+00:00</updated>
+    <author>
+      <name>Silvano Stralla</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;a href="http://www.sistrall.it/photographs/2018/07/02/mentre-ci-svegliamo/"&gt;&lt;img src="http://www.sistrall.it/photographs/2018/07/02/mentre-ci-svegliamo/square-thumb.jpg" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Mentre mi sveglio penso. Come sarà la mia giornata? Da dove comincerà? E che fame! Via, andare, andare: colazione! Certi giorni, mentre mi sveglio, ci sono un sacco di punti esclamativi e interrogativi dentro di me.&lt;/p&gt;
+
+&lt;p&gt;Certi giorni no.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Sul sentiero</title>
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/06/28/sul-sentiero/"/>
     <id>http://www.sistrall.it/photographs/2018/06/28/sul-sentiero/</id>
     <published>2018-06-28T18:40:24+00:00</published>
-    <updated>2018-06-28T20:04:37+00:00</updated>
+    <updated>2018-07-02T09:33:32+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -27,7 +41,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/06/27/trabucco/"/>
     <id>http://www.sistrall.it/photographs/2018/06/27/trabucco/</id>
     <published>2018-06-27T08:15:35+00:00</published>
-    <updated>2018-06-28T20:04:37+00:00</updated>
+    <updated>2018-07-02T09:33:32+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -38,7 +52,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/06/26/il-laghetto-della-foresta-umbra/"/>
     <id>http://www.sistrall.it/photographs/2018/06/26/il-laghetto-della-foresta-umbra/</id>
     <published>2018-06-26T11:39:53+00:00</published>
-    <updated>2018-06-28T20:04:37+00:00</updated>
+    <updated>2018-07-02T09:33:32+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -51,7 +65,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/06/25/tempo-di-aperitivi/"/>
     <id>http://www.sistrall.it/photographs/2018/06/25/tempo-di-aperitivi/</id>
     <published>2018-06-25T11:18:11+00:00</published>
-    <updated>2018-06-28T20:04:37+00:00</updated>
+    <updated>2018-07-02T09:33:32+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -62,7 +76,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/06/22/senza-titolo/"/>
     <id>http://www.sistrall.it/photographs/2018/06/22/senza-titolo/</id>
     <published>2018-06-22T06:32:50+00:00</published>
-    <updated>2018-06-28T20:04:37+00:00</updated>
+    <updated>2018-07-02T09:33:32+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -73,7 +87,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/06/21/il-trabucco-di-prima/"/>
     <id>http://www.sistrall.it/photographs/2018/06/21/il-trabucco-di-prima/</id>
     <published>2018-06-21T11:28:18+00:00</published>
-    <updated>2018-06-28T20:04:37+00:00</updated>
+    <updated>2018-07-02T09:33:32+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -85,7 +99,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/06/20/skyscape/"/>
     <id>http://www.sistrall.it/photographs/2018/06/20/skyscape/</id>
     <published>2018-06-20T07:10:13+00:00</published>
-    <updated>2018-06-28T20:04:37+00:00</updated>
+    <updated>2018-07-02T09:33:32+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -98,7 +112,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/06/19/segnale-mancante/"/>
     <id>http://www.sistrall.it/photographs/2018/06/19/segnale-mancante/</id>
     <published>2018-06-19T07:27:33+00:00</published>
-    <updated>2018-06-28T20:04:37+00:00</updated>
+    <updated>2018-07-02T09:33:32+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -110,7 +124,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/06/18/piani-sospesi/"/>
     <id>http://www.sistrall.it/photographs/2018/06/18/piani-sospesi/</id>
     <published>2018-06-18T08:27:29+00:00</published>
-    <updated>2018-06-28T20:04:37+00:00</updated>
+    <updated>2018-07-02T09:33:32+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -122,22 +136,11 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/06/15/astratto/"/>
     <id>http://www.sistrall.it/photographs/2018/06/15/astratto/</id>
     <published>2018-06-15T09:07:32+00:00</published>
-    <updated>2018-06-28T20:04:37+00:00</updated>
+    <updated>2018-07-02T09:33:32+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
     <content type="html">&lt;p&gt;&lt;a href="http://www.sistrall.it/photographs/2018/06/15/astratto/"&gt;&lt;img src="http://www.sistrall.it/photographs/2018/06/15/astratto/square-thumb.jpg" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Muro, Barletta&lt;/p&gt;
 </content>
-  </entry>
-  <entry>
-    <title>Vieste, centro storico</title>
-    <link rel="alternate" href="http://www.sistrall.it/photographs/2018/06/14/vieste-centro-storico/"/>
-    <id>http://www.sistrall.it/photographs/2018/06/14/vieste-centro-storico/</id>
-    <published>2018-06-14T06:34:55+00:00</published>
-    <updated>2018-06-28T20:04:37+00:00</updated>
-    <author>
-      <name>Silvano Stralla</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;a href="http://www.sistrall.it/photographs/2018/06/14/vieste-centro-storico/"&gt;&lt;img src="http://www.sistrall.it/photographs/2018/06/14/vieste-centro-storico/square-thumb.jpg" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;«Io la chiamo “la Mecca del Gargano”» ci dice la nostra ospite mentre parla di Vieste. «D’estate accoglie un milione di persone». A girarci a piedi mi chiedo come faccia: tutto sommato è un paese, neanche tanto grande. Ad inizio giugno la calca di...&lt;/p&gt;</content>
   </entry>
 </feed>
