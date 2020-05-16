@@ -5,16 +5,27 @@
   <id>http://www.sistrall.it/</id>
   <link href="http://www.sistrall.it/"/>
   <link href="http://www.sistrall.it/atom.xml" rel="self"/>
-  <updated>2019-01-22T13:10:50+00:00</updated>
+  <updated>2020-05-16T07:00:00+00:00</updated>
   <author>
     <name>Silvano Stralla</name>
   </author>
+  <entry>
+    <title>The City Listener: Dalla mia finestra</title>
+    <link rel="alternate" href="http://www.sistrall.it/thoughts/2020/05/16/the-city-listener-dalla-mia-finestra/"/>
+    <id>http://www.sistrall.it/thoughts/2020/05/16/the-city-listener-dalla-mia-finestra/</id>
+    <published>2020-05-16T07:00:00+00:00</published>
+    <updated>2020-05-16T09:39:00+00:00</updated>
+    <author>
+      <name>Silvano Stralla</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;em&gt;Prima che di COVID-19, il 2020 doveva essere l'anno dell'esplosione dei podcast (che mi rende felice) e della rinascita dei blog personali (in questo caso la mia reazione istintiva è entusiasmo). È successo che in questo 2020 &lt;a href="https://www.spreaker.com/user/11988564/ortigiardino"&gt;sono finito in una puntata&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Monet: Ninfee tutt’attorno</title>
     <link rel="alternate" href="http://www.sistrall.it/photographs/2019/01/22/monet-ninfee-tutt-attorno/"/>
     <id>http://www.sistrall.it/photographs/2019/01/22/monet-ninfee-tutt-attorno/</id>
     <published>2019-01-22T13:10:50+00:00</published>
-    <updated>2020-05-16T09:30:49+00:00</updated>
+    <updated>2020-05-16T09:39:00+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -27,7 +38,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/12/09/giorno/"/>
     <id>http://www.sistrall.it/photographs/2018/12/09/giorno/</id>
     <published>2018-12-09T15:47:47+00:00</published>
-    <updated>2020-05-16T09:30:49+00:00</updated>
+    <updated>2020-05-16T09:39:00+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -39,7 +50,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/11/26/andando-al-lavoro/"/>
     <id>http://www.sistrall.it/photographs/2018/11/26/andando-al-lavoro/</id>
     <published>2018-11-26T11:24:41+00:00</published>
-    <updated>2020-05-16T09:30:49+00:00</updated>
+    <updated>2020-05-16T09:39:00+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -51,7 +62,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/11/24/camera-di-commercio-napoli/"/>
     <id>http://www.sistrall.it/photographs/2018/11/24/camera-di-commercio-napoli/</id>
     <published>2018-11-24T09:59:56+00:00</published>
-    <updated>2020-05-16T09:30:49+00:00</updated>
+    <updated>2020-05-16T09:39:00+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -63,7 +74,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/11/23/fondation-louis-vuitton-is-the-new-tour-eiffel/"/>
     <id>http://www.sistrall.it/photographs/2018/11/23/fondation-louis-vuitton-is-the-new-tour-eiffel/</id>
     <published>2018-11-23T16:54:13+00:00</published>
-    <updated>2020-05-16T09:30:49+00:00</updated>
+    <updated>2020-05-16T09:39:00+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -75,7 +86,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/11/19/no/"/>
     <id>http://www.sistrall.it/photographs/2018/11/19/no/</id>
     <published>2018-11-19T11:54:25+00:00</published>
-    <updated>2020-05-16T09:30:49+00:00</updated>
+    <updated>2020-05-16T09:39:00+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -87,7 +98,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/11/15/glorious/"/>
     <id>http://www.sistrall.it/photographs/2018/11/15/glorious/</id>
     <published>2018-11-15T13:38:07+00:00</published>
-    <updated>2020-05-16T09:30:49+00:00</updated>
+    <updated>2020-05-16T09:39:00+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -99,7 +110,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/11/12/senza-titolo/"/>
     <id>http://www.sistrall.it/photographs/2018/11/12/senza-titolo/</id>
     <published>2018-11-12T11:04:58+00:00</published>
-    <updated>2020-05-16T09:30:49+00:00</updated>
+    <updated>2020-05-16T09:39:00+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -111,7 +122,7 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/11/11/egon-schiele-1911/"/>
     <id>http://www.sistrall.it/photographs/2018/11/11/egon-schiele-1911/</id>
     <published>2018-11-11T15:19:54+00:00</published>
-    <updated>2020-05-16T09:30:49+00:00</updated>
+    <updated>2020-05-16T09:39:00+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
@@ -122,23 +133,11 @@
     <link rel="alternate" href="http://www.sistrall.it/photographs/2018/11/04/parigi-comincia/"/>
     <id>http://www.sistrall.it/photographs/2018/11/04/parigi-comincia/</id>
     <published>2018-11-04T18:52:35+00:00</published>
-    <updated>2020-05-16T09:30:49+00:00</updated>
+    <updated>2020-05-16T09:39:00+00:00</updated>
     <author>
       <name>Silvano Stralla</name>
     </author>
     <content type="html">&lt;p&gt;&lt;a href="http://www.sistrall.it/photographs/2018/11/04/parigi-comincia/"&gt;&lt;img src="http://www.sistrall.it/photographs/2018/11/04/parigi-comincia/square-thumb.jpg" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Una mattina a Parigi mi alzo esco e trovo tutto così.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Da Flor, con un certo ritardo</title>
-    <link rel="alternate" href="http://www.sistrall.it/photographs/2018/11/03/da-flor-con-un-certo-ritardo/"/>
-    <id>http://www.sistrall.it/photographs/2018/11/03/da-flor-con-un-certo-ritardo/</id>
-    <published>2018-11-03T15:14:00+00:00</published>
-    <updated>2020-05-16T09:30:49+00:00</updated>
-    <author>
-      <name>Silvano Stralla</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;a href="http://www.sistrall.it/photographs/2018/11/03/da-flor-con-un-certo-ritardo/"&gt;&lt;img src="http://www.sistrall.it/photographs/2018/11/03/da-flor-con-un-certo-ritardo/square-thumb.jpg" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Fotografare fiori in giardino era una delle cose che facevo. Mica per i fiori in se: era una scusa per la ricerca e l’osservazione di diramazioni frattali, chiaro scuri, ombre.&lt;/p&gt;
 </content>
   </entry>
 </feed>
